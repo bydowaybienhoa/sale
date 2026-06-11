@@ -9,7 +9,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://minhnguyen-eth.github.io/car-sale",
+  "homepage": "https://bydowaybienhoa.github.io/sale",
   "dependencies": {
     "react": "^19.2.6",
     "react-dom": "^19.2.6"
